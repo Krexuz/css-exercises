@@ -1,11 +1,12 @@
-#first {
+.first {
     background-color: black;
     color:white;
 }
-#second {
+.second {
     background-color: yellow;
 }
-.font-size {
+.first,
+.second {
     font-size: 28px;
     font-family: helvetica, "times new roman",sans-serif;
 }
